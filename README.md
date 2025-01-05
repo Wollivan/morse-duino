@@ -1,5 +1,12 @@
 # MorseDuino
 
+
+![prototype](./assets/circuit.png)
+
+![prototype](./assets/prototype.jpeg)
+
+Watch a video of the prototype making [sweet music](./assets/beep-beep.mp4).
+
 ## What is?
 
 Code and circuit diagram to create a simple morse code clacker.
