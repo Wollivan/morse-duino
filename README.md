@@ -1,9 +1,8 @@
 # MorseDuino
 
+![prototype](./assets/prototype.jpeg)
 
 ![prototype](./assets/circuit.png)
-
-![prototype](./assets/prototype.jpeg)
 
 Watch a video of the prototype making [sweet music](./assets/beep-beep.mp4).
 
